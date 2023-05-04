@@ -486,8 +486,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .work__image-box {
     margin-bottom: var(--gutter-normal);
-    min-width: 100vw;
-    max-width: 100vw;
+   
 }
 
 @media(min-width: 901px) {
