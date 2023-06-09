@@ -608,3 +608,8 @@ body:not(.user-is-tabbing) a:focus {
         padding: var(--gutter-medium) 0;
     } 
 }
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
